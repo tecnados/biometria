@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-biometria",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-biometria",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Gledson Yuri Klein Ximenes",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
